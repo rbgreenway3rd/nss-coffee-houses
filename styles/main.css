@@ -1,0 +1,18 @@
+.list{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    
+}
+.shop{
+    flex-basis: 15%;
+    border: 1px dotted black;
+    margin: 8px; 
+    padding: 0.5px;
+    text-align: left;
+    
+}
+header{
+    text-align: center;
+
+}
